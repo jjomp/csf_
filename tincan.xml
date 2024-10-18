@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Módulo 1: As Empresas e a Sustentabilidade</name>
+      <description lang="en-US"></description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/95HN3O5FQqTC5EG95M67DsM42NzYv2pP" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">1. Introdução e Contexto Geral /section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/Gb4ZpXIDUa9eHhkmTSwGJ0SZ_xlk6ueX" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Introdução/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/YY2coOo2RHthko-eWY-Nw7X0dxStmUiu" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">A. Conceitos-Chave: ESG e Dupla Materialidade /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/3tP9p-uqMbyrc0Wy0XeEbU857dBCULrV" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">B. Tendências e Enquadramento Estratégico  /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/-MCyEjGonIAfiuBbisAijPtYWoh7EqbF" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">2. Política Económica e Regulamentação ESG  /section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/mqVPQxXuvzEdR8b-PrteWo5-GRp8yWKY" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">A. Evolução das Preocupações ESG: Enquadramento Histórico /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/oMUWniZ5s0YHQ179egC6zXVnOxIv2ynl" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">B. Introdução à Legislação Europeia /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/qC96Sm7FpV2S3bPvx-XgD84I5wUnKm5x" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">3. Introdução à Integração ESG nas Empresas  /section</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/rh-CR7zO2RTTNGZIDuOM8bsjXy-sNj1r" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">A. Integração ESG nas Empresas - Impacto, Riscos e Oportunidades /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/yQ_yFPngSNBb1ZdexH1PZ0B9tNT0aejz" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">B. Elementos-chave do Processo de Integração ESG /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/mt_BoradGfFqeXLNq7tzLAwZf1THG4IN" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">C. Sustentabilidade e a Estratégia de Talento: Pessoas e Empresas /blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://-nchSVz-tTon4jdS8NUlcpkaUv6kM1eL_rise/p4Dhrgsi3i8CPcfT6bZBR3TXMn15uHbn" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Verificação de conhecimento/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
